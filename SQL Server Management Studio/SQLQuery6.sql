@@ -1,0 +1,1 @@
+select ogrNumara,ogrAd,ogrBilgi from ogr
